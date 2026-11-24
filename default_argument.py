@@ -1,0 +1,1 @@
+def calculate_marks(math,eng,hindi,computer,history)
